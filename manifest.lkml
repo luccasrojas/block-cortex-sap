@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "sap_cortex-demo"
+  value: "sap_crystal"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "boxwood-airport-377919"
+  value: "crystal-sap-cortex-mvp"
   export: override_required
 }
 
@@ -14,6 +14,6 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "100"
+  value: "400"
   export: override_required
 }
