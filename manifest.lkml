@@ -4,7 +4,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "crystal-sap-cortex-mvp"
+  value: "boxwood-airport-377919"
   export: override_required
 }
 
